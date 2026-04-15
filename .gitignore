@@ -210,3 +210,5 @@ data/raw/
 data/interim/
 *.pyc
 data/raw/images /
+!data/raw.dvc
+data/localstore/
