@@ -209,3 +209,4 @@ __marimo__/
 data/raw/
 data/interim/
 *.pyc
+data/raw/images /
