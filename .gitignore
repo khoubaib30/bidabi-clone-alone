@@ -212,3 +212,4 @@ data/interim/
 data/raw/images /
 !data/raw.dvc
 data/localstore/
+reports/
