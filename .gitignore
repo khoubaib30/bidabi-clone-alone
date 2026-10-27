@@ -213,3 +213,8 @@ data/raw/images /
 !data/raw.dvc
 data/localstore/
 reports/
+# Environnement virtuel Windows (ne doit pas être versionné)
+Scripts/
+pyvenv.cfg
+Include/
+Lib/
