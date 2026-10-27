@@ -166,6 +166,8 @@ pip install -r requirements.txt
 
 ### 3. Recuperer les donnees et le modele avec DVC
 
+Le remote DVC du projet est un dossier local (`data/localstore`) : les images et le modele ne sont pas publies sur GitHub. Pour reproduire le projet, il faut reconstruire le dataset avec `src/asyscrapper.py` ou configurer son propre remote DVC.
+
 Si les fichiers DVC sont presents et que le cache DVC est configure :
 
 ```bash
